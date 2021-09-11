@@ -20,7 +20,7 @@
     "homepage": "https://github.com/geekeditor/geekeditor-releases#readme",
     "build": {
         "appId": "com.montisan.geekeditor",
-        "productName": "geekeditor-releases",
+        "productName": "geekeditor",
         "files": [
             "renderer/pages",
             "main/dist"

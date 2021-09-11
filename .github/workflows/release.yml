@@ -3,7 +3,9 @@
 name: Build/release
 
 # Workflow's trigger
-on: push
+on: push:
+    tags:
+      - 'v*.*.*'
       
 jobs:
   release:

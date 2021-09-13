@@ -34,8 +34,7 @@
         "copyright": "Copyright © 2021 Montisan",
         "mac": {
             "target": [
-                "dmg",
-                "zip"
+                "dmg"
             ],
             "icon": "resource/icon.icns"
         },

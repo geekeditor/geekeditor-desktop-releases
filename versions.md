@@ -1,6 +1,12 @@
 
 # Versions History
 
+## GeekEditor v0.8.2 Web/软件版 2021/09/15
+
+### 优化
+
+- 优化标题栏和左边导航栏
+
 ## GeekEditor v0.8.0 Web/软件版 2021/09/14
 
 ### 优化

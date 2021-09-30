@@ -10,7 +10,7 @@
     "image.css": "./static/css/image.8043c011.chunk.css",
     "image.js": "./static/js/image.a7939f28.chunk.js",
     "main.css": "./static/css/main.5e99bb52.chunk.css",
-    "main.js": "./static/js/main.4ac89439.chunk.js",
+    "main.js": "./static/js/main.3abfc8f8.chunk.js",
     "runtime-image.js": "./static/js/runtime-image.ed22f3cb.js",
     "runtime-main.js": "./static/js/runtime-main.64050410.js",
     "static/css/8.e46c4f08.chunk.css": "./static/css/8.e46c4f08.chunk.css",
@@ -32,6 +32,6 @@
     "static/css/8.e46c4f08.chunk.css",
     "static/js/8.b48a7376.chunk.js",
     "static/css/main.5e99bb52.chunk.css",
-    "static/js/main.4ac89439.chunk.js"
+    "static/js/main.3abfc8f8.chunk.js"
   ]
 }

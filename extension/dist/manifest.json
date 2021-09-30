@@ -1,0 +1,38 @@
+{
+    "background": {
+        "persistent": true,
+        "scripts": ["background.js"]
+    },
+    "content_scripts": [{
+        "matches": ["*://*/*"],
+        "js": [
+            "/static/js/runtime-content.js",
+            "/static/js/0.chunk.js",
+            "/static/js/5.chunk.js",
+            "/static/js/content.chunk.js"
+        ],
+        "run_at": "document_end",
+        "all_frames": true
+    },{
+        "matches": ["*://*/*"],
+        "css": [
+            "/static/css/5.chunk.css",
+            "/static/css/content.chunk.css"
+        ],
+        "run_at": "document_start"
+    }],
+    "description": "沉浸式自媒体写作编辑器",
+    "externally_connectable": {
+        "matches": ["*://*/*"]
+    },
+    "icons": {
+        "128": "icon_128x128.png",
+        "16": "icon_16x16.png",
+        "48": "icon_48x48.png"
+    },
+    "manifest_version": 2,
+    "name": "极客编辑器",
+    "permissions": ["tabs", "storage", "webRequest", "webRequestBlocking", "https://*/*"],
+    "version": "1.0.8",
+    "web_accessible_resources": ["*"]
+}

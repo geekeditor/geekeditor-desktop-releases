@@ -1,6 +1,6 @@
 {
     "name": "geekeditor",
-    "version": "0.8.2",
+    "version": "0.8.3",
     "description": "Immersive efficiency writing editor",
     "main": "main/dist/index.js",
     "scripts": {
@@ -23,9 +23,10 @@
         "productName": "GeekEditor",
         "files": [
             "renderer/pages",
-            "main/dist"
+            "main/dist",
+            "extension/dist"
         ],
-        "asar": true,
+        "asar": false,
         "extraFiles": [],
         "directories": {
             "buildResources": "",
@@ -59,7 +60,8 @@
     },
     "dependencies": {
         "electron-is-dev": "^1.2.0",
-        "http-server": "^13.0.2"
+        "http-server": "^13.0.2",
+        "electron-updater": "^4.3.9"
     },
     "devDependencies": {
         "@typescript-eslint/eslint-plugin": "^4.13.0",

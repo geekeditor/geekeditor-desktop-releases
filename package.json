@@ -1,6 +1,6 @@
 {
     "name": "geekeditor",
-    "version": "0.8.5",
+    "version": "0.8.6",
     "description": "Immersive efficiency writing editor",
     "main": "main/dist/index.js",
     "scripts": {

@@ -1,6 +1,17 @@
 
 # Versions History
 
+## GeekEditor v0.8.8 Web/软件版 2021/10/09
+
+### 优化
+
+- 优化Markdown输入交互，参见新手教程
+
+### Bugfix
+
+- 文件名不能输入空格的问题
+- 桌面软件，按Insert键导致光标显示出错的问题
+
 ## GeekEditor v0.8.7 Web/软件版 2021/10/07
 
 ### 优化

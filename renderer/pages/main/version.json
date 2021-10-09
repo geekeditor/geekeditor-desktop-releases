@@ -1,4 +1,4 @@
 {
-    "version": "v0.8.8",
-    "update": "<ul><li>优化<ul><li>优化Markdown输入交互，参见新手教程</li></ul></li><li>Bugfix<ul><li>文件名不能输入空格的问题</li><li>桌面软件，按Insert键导致光标显示出错的问题</li></ul></li></ul>"
+    "version": "v0.8.9",
+    "update": "<ul><li>Bugfix<ul><li>Markdown输入格式化光标定位不准</li><li>支持行内代码Markdown格式化</li></ul></li></ul>"
 }

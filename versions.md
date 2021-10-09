@@ -3,6 +3,13 @@
 
 ## GeekEditor v0.8.8 Web/软件版 2021/10/09
 
+### Bugfix
+
+- Markdown输入格式化光标定位不准
+- 支持行内代码Markdown格式化
+
+## GeekEditor v0.8.8 Web/软件版 2021/10/09
+
 ### 优化
 
 - 优化Markdown输入交互，参见新手教程

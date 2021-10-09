@@ -1,7 +1,7 @@
 
 # Versions History
 
-## GeekEditor v0.8.8 Web/软件版 2021/10/09
+## GeekEditor v0.8.8 Web/软件版 2021/10/10
 
 ### Bugfix
 

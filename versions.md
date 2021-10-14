@@ -1,6 +1,12 @@
 
 # Versions History
 
+## GeekEditor v0.8.10 Web/软件版 2021/10/14
+
+### Bugfix
+
+- 本地仓库图片不能加载的问题，并支持本地仓库图片同步到公众号
+
 ## GeekEditor v0.8.9 Web/软件版 2021/10/10
 
 ### Bugfix

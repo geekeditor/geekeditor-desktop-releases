@@ -1,4 +1,4 @@
 {
-    "version": "v0.8.9",
-    "update": "<ul><li>Bugfix<ul><li>Markdown输入格式化光标定位不准</li><li>支持行内代码Markdown格式化</li></ul></li></ul>"
+    "version": "v0.8.10",
+    "update": "<ul><li>Bugfix<ul><li>本地仓库图片不能加载的问题，并支持本地仓库图片同步到公众号</li></ul></li></ul>"
 }

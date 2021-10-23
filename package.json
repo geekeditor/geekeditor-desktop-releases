@@ -1,6 +1,6 @@
 {
   "name": "geekeditor",
-  "version": "0.9.4",
+  "version": "0.9.5",
   "description": "Immersive efficiency writing editor",
   "main": "main/dist/index.js",
   "scripts": {
@@ -47,7 +47,7 @@
       "icon": "resource/icon.ico"
     },
     "linux": {
-      "executableName": "geekeditor",
+      "executableName": "GeekEditor",
       "category": "Writing Editor",
       "maintainer": "montisan <i@hncoder.com>",
       "icon": "resource/icon.icns",

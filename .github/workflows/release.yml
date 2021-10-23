@@ -4,7 +4,9 @@ name: Build/release
 
 # Workflow's trigger
 on: 
-  push
+  push:
+    tags:
+      - 'v*.*.*'
       
 jobs:
   release:
@@ -13,7 +15,7 @@ jobs:
     # Platforms to build on/for
     strategy:
       matrix:
-        os: [macos-latest]
+        os: [macos-latest, ubuntu-latest, windows-latest]
         
     steps:
       - name: Check out Git repository

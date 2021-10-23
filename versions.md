@@ -1,6 +1,12 @@
 
 # Versions History
 
+## GeekEditor v0.9.2 Web/软件版 2021/10/23
+
+### 优化
+
+- 优化提示，签名macOS
+
 ## GeekEditor v0.9.1 Web/软件版 2021/10/21
 
 ### 新增

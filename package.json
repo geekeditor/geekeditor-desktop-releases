@@ -1,6 +1,6 @@
 {
     "name": "geekeditor",
-    "version": "0.9.1",
+    "version": "0.9.2",
     "description": "Immersive efficiency writing editor",
     "main": "main/dist/index.js",
     "scripts": {
@@ -21,42 +21,59 @@
     "build": {
         "appId": "com.montisan.geekeditor",
         "productName": "GeekEditor",
+        "copyright": "Copyright © 2021 montisan i@hncoder.com",
+        "asar": false,
+        "asarUnpack": [
+            "renderer/**/*",
+            "main/**/*",
+            "extension/**/*",
+            "node_modules/electron-is-dev/**/*",
+            "node_modules/http-server/**/*",
+            "node_modules/macaddress/**/*"
+        ],
         "files": [
             "renderer/pages",
             "main/dist",
             "extension/dist"
         ],
-        "asar": false,
-        "extraFiles": [],
         "directories": {
-            "buildResources": "",
             "output": "release"
         },
-        "copyright": "Copyright © 2021 Montisan",
-        "mac": {
-            "target": [
-                "dmg"
-            ],
-            "icon": "resource/icon.icns"
-        },
-        "dmg": {
-            "window": {
-                "width": 540,
-                "height": 380
-            },
-            "iconSize": 128
-        },
+        "npmRebuild": false,
         "win": {
-            "icon": "resource/icon.ico",
-            "target": ["nsis"]
+            "target": [
+                "zip",
+                "nsis"
+            ],
+            "icon": "resource/icon.ico"
+        },
+        "linux": {
+            "executableName": "geekeditor",
+            "category": "Writing Editor",
+            "maintainer": "montisan <i@hncoder.com>",
+            "icon": "resource/icon.icns",
+            "target": [
+                "deb"
+            ]
+        },
+        "mac": {
+            "icon": "resource/icon.icns",
+            "gatekeeperAssess": false,
+            "hardenedRuntime": true,
+            "entitlements": "resource/entitlements.mac.plist",
+            "entitlementsInherit": "resource/entitlements.mac.plist",
+            "binaries": [],
+            "target": [
+                "dmg",
+                "zip"
+            ]
         },
         "nsis": {
             "oneClick": false,
             "language": "2052",
             "perMachine": true,
             "allowToChangeInstallationDirectory": true
-        },
-        "squirrelWindows": {}
+        }
     },
     "dependencies": {
         "electron-is-dev": "^1.2.0",

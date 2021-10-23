@@ -42,7 +42,6 @@
     "npmRebuild": false,
     "win": {
       "target": [
-        "zip",
         "nsis"
       ],
       "icon": "resource/icon.ico"
@@ -64,8 +63,7 @@
       "entitlementsInherit": "resource/entitlements.mac.plist",
       "binaries": [],
       "target": [
-        "dmg",
-        "zip"
+        "dmg"
       ]
     },
     "afterSign": "electron-builder-notarize",

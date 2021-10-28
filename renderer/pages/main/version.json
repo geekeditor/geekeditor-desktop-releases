@@ -1,4 +1,4 @@
 {
-    "version": "v0.9.5",
-    "update": "<ul><li>优化<ul><li>优化提示，签名公证macOS桌面软件</li></ul></li></ul>"
+    "version": "v0.9.6",
+    "update": "<ul><li>新增<ul><li>支持管理公众号文章、草稿</li><li>支持快捷（复制或拖拽）插入公众号历史文章链接</li></ul></li></ul>"
 }

@@ -1,6 +1,13 @@
 
 # Versions History
 
+## GeekEditor v0.9.6 Web/软件版 2021/10/28
+
+### 新增
+
+- 支持管理公众号文章、草稿
+- 支持快捷（复制或拖拽）插入公众号历史文章链接
+
 ## GeekEditor v0.9.5 Web/软件版 2021/10/23
 
 ### 优化
@@ -309,7 +316,7 @@
 
 1. 支持内容块：<mark><b>六级标题、段落、图片</b>，同时支持Markdown编写转换</mark>；
 
-2. 行内格式支持**加粗**、*斜体*、<u>下划线</u>（Underline）、<s>删除线</s>（Strikethrough）、超链接（Hyperlink）、<mark>标记</mark>（Mark）、`内联代码`（Inline Code）、<sup>上标</sup>
+2. 行内格式支持**加粗**、*斜体*、<u>下划线</u>（Underline）、<s>删除线</s>（Strikethrough）、超链接（Hyperlink）、<mark>高亮</mark>（Mark）、`内联代码`（Inline Code）、<sup>上标</sup>
 (Superscript)、<sub>下标</sub>(Subscript)，均支持快捷键操作；
 
 3. 支持<mark>多篇图文打开编辑</mark>；

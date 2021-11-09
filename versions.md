@@ -1,6 +1,12 @@
 
 # Versions History
 
+## GeekEditor v1.0.0 Web/软件版 2021/11/09
+
+### 新增
+
+- 新增一个排版主题：Lyric（至此，编辑器基本达到里程碑1.0.0版本）
+
 ## GeekEditor v0.9.10 Web/软件版 2021/11/08
 
 ### 新增

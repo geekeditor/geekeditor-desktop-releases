@@ -1,4 +1,4 @@
 {
-    "version": "v0.9.10",
-    "update": "<ul><li>新增<ul><li>新增一个排版主题：Lyric（至此，编辑器基本达到里程碑1.0.0版本）</li></ul></li></ul>"
+    "version": "v1.0.1",
+    "update": "<ul><li>新增<ul><li>新增一个排版主题：Lyric（至此，编辑器基本达到里程碑1.0.0版本）</li></ul></li><li>Bugfix<ul><li>代码复制为Markdown格式错误</li></ul></li></ul>"
 }

@@ -1,6 +1,11 @@
 
 # Versions History
 
+## GeekEditor v1.0.5 Web/软件版 2021/11/23
+
+### Bugfix
+- 搜索格式化加粗错误
+
 ## GeekEditor v1.0.4 Web/软件版 2021/11/22
 
 ### 新增

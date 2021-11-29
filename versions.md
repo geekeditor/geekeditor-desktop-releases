@@ -1,6 +1,12 @@
 
 # Versions History
 
+## GeekEditor v1.0.6 Web/软件版 2021/11/29
+
+### 新增
+
+- 一键生成公众号文章「往期推荐」，极大程度上降低公众号排版时间
+
 ## GeekEditor v1.0.5 Web/软件版 2021/11/23
 
 ### Bugfix

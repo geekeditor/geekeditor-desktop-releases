@@ -1,4 +1,4 @@
 {
-    "version": "v1.0.6",
-    "update": "<ul><li>新增<ul><li>一键生成公众号文章「往期推荐」，极大程度上降低公众号排版时间</li></ul></li></ul>"
+    "version": "v1.0.7",
+    "update": "<ul><li>Bugfix<ul><li>本地图片复制导出路径修正</li><li>兼容CodeMirror富文本代码块复制粘贴</li><li>其它一些小Bug</li></ul></li></ul>"
 }

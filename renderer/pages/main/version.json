@@ -1,4 +1,4 @@
 {
-    "version": "v1.0.8",
-    "update": "<ul><li>Bugfix<ul><li>本地图片复制导出路径修正</li><li>兼容CodeMirror富文本代码块复制粘贴</li><li>其它一些小Bug</li></ul></li></ul>"
+    "version": "v1.0.9",
+    "update": "<ul><li>Bugfix<ul><li>解决一些已知bug</li></ul></li></ul>"
 }

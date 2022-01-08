@@ -1,6 +1,12 @@
 
 # Versions History
 
+## GeekEditor v1.0.13 Web/软件版 2022/01/08
+
+### Bugfix
+
+- 解决同一目录下创建多个文档失败的Bug
+
 ## GeekEditor v1.0.12 Web/软件版 2022/01/04
 
 ### 优化

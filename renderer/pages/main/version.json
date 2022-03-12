@@ -1,4 +1,4 @@
 {
-    "version": "v1.0.13",
-    "update": "<ul><li>Bugfix<ul><li>解决同一目录下创建多个文档失败的Bug</li></ul></li></ul>"
+    "version": "v1.0.14",
+    "update": "<ul><li>新增<ul><li>使用新的Logon</li></ul></li><li>Bugfix<ul><li>打开编辑器时，自动打开上次本地文档存在空内容的问题</li></ul></li></ul>"
 }

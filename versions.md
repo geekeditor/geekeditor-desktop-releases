@@ -1,6 +1,15 @@
 
 # Versions History
 
+## GeekEditor v1.0.14 Web/软件版 2022/03/12
+
+### 新增
+
+- 使用新的Logo
+### Bugfix
+
+- 打开编辑器时，自动打开上次本地文档存在空内容的问题
+
 ## GeekEditor v1.0.13 Web/软件版 2022/01/08
 
 ### Bugfix

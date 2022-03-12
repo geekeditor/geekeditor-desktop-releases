@@ -1,7 +1,7 @@
 
 # Versions History
 
-## GeekEditor v1.0.15 Web/软件版 2022/03/12
+## GeekEditor v1.0.16 Web/软件版 2022/03/12
 
 ### 新增
 

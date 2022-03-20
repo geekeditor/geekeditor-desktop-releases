@@ -1,4 +1,4 @@
 {
-    "version": "v1.0.16",
-    "update": "<ul><li>新增<ul><li>使用新的Logon</li></ul></li><li>Bugfix<ul><li>打开编辑器时，自动打开上次本地文档存在空内容的问题</li></ul></li></ul>"
+    "version": "v1.0.17",
+    "update": "<ul><li>feat: 在文档树列表，点击鼠标右键可移除仓库</li><li>fix: 解决文档重命名后，再次打开编辑器自动打开文档错误的问题</li></ul>"
 }

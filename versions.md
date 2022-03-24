@@ -1,6 +1,10 @@
 
 # Versions History
 
+## GeekEditor v1.0.18 Web/软件版 2022/03/24
+
+- fix: 解决打开编辑器自动打开本地文档，输入保存不了的问题
+
 ## GeekEditor v1.0.17 Web/软件版 2022/03/20
 
 - feat: 在文档树列表，点击鼠标右键可移除仓库

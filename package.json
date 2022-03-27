@@ -1,6 +1,6 @@
 {
   "name": "geekeditor",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "Immersive efficiency writing editor",
   "main": "main/dist/index.js",
   "scripts": {
@@ -44,7 +44,7 @@
       "target": [
         "nsis"
       ],
-      "icon": "resource/icon.ico"
+      "icon": "resource/icon.png"
     },
     "linux": {
       "executableName": "GeekEditor",

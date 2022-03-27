@@ -1,4 +1,4 @@
 {
-    "version": "v1.0.18",
-    "update": "<ul><li>fix: 解决打开编辑器自动打开本地文档，输入保存不了的问题</li></ul>"
+    "version": "v1.0.19",
+    "update": "<ul><li>update: 优化编辑器桌面icon显示</li><li>fix: 解决代码块复制到知乎粘贴失败的问题</li></ul>"
 }

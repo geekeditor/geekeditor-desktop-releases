@@ -1,6 +1,11 @@
 
 # Versions History
 
+## GeekEditor v1.0.19 Web/软件版 2022/03/27
+
+- update: 优化编辑器桌面icon显示
+- fix: 解决代码块复制到知乎粘贴失败的问题
+
 ## GeekEditor v1.0.18 Web/软件版 2022/03/24
 
 - fix: 解决打开编辑器自动打开本地文档，输入保存不了的问题

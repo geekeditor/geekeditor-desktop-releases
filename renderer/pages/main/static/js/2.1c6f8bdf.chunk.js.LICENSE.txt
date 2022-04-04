@@ -1,0 +1,11 @@
+/**
+ *
+ * Tiny any beautiful tooltips module.
+ *
+ * Can be showed near passed Element with any specified HTML content
+ *
+ * https://github.com/codex-team/codex.tooltips <- ★ Star if you like it ( ͡° ͜ ͡°)
+ *
+ * @author CodeX <codex.so>
+ * @licence MIT
+ */

@@ -1,6 +1,11 @@
 
 # Versions History
 
+## GeekEditor v1.1.0 Web/软件版 2022/04/05
+
+- fix: 解决Gitee等被跨域限制的图片显示
+- feat: 优化编辑器，使得在线版在Chrome、Safari及Firefox浏览器上使用体检基本保持一致
+
 ## GeekEditor v1.0.19 Web/软件版 2022/03/27
 
 - update: 优化编辑器桌面icon显示

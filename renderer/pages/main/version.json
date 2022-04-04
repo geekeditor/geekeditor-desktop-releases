@@ -1,4 +1,4 @@
 {
-    "version": "v1.0.19",
-    "update": "<ul><li>update: 优化编辑器桌面icon显示</li><li>fix: 解决代码块复制到知乎粘贴失败的问题</li></ul>"
+    "version": "v1.1.0",
+    "update": "<ul><li>fix: 解决Gitee等被跨域限制的图片显示</li><li>feat: 优化编辑器，使得在线版在Chrome、Safari及Firefox浏览器上使用体检基本保持一致</li></ul>"
 }

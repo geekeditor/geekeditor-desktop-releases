@@ -1,6 +1,14 @@
 
 # Versions History
 
+
+## GeekEditor v1.2.0 Web/软件版 2022/05/08
+
+- feat: Web在线版支持本地磁盘存储
+- feat: 新增GitLab仓库存储
+- feat: 添加仓库时不强制要求添加图床仓库
+- fix: 数学公式输入工具栏显示不正常
+
 ## GeekEditor v1.1.0 Web/软件版 2022/04/05
 
 - fix: 解决Gitee等被跨域限制的图片显示

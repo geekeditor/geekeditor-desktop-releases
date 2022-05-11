@@ -1,6 +1,12 @@
 
 # Versions History
 
+## GeekEditor v1.2.1 Web/软件版 2022/05/11
+
+- fix: 新增或移除仓库致使页面布局错误
+- fix: 点击标签栏关闭按钮时文档闪现
+- fix: 列表内容块选中不能复制、剪切
+- fix: 拖动条的拖动时失去响应
 
 ## GeekEditor v1.2.0 Web/软件版 2022/05/08
 

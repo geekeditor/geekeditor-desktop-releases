@@ -1,4 +1,4 @@
 {
-    "version": "v1.2.0",
-    "update": "<ul><li>feat: Web在线版支持本地磁盘存储</li><li>feat: 新增GitLab仓库存储</li><li>feat: 添加仓库时不强制要求添加图床仓库</li><li>fix: 数学公式输入工具栏显示不正常</li></ul>"
+    "version": "v1.2.1",
+    "update": "<ul><li>fix: 新增或移除仓库致使页面布局错误</li><li>fix: 点击标签栏关闭按钮时文档闪现</li><li>fix: 列表内容块选中不能复制、剪切</li><li>fix: 拖动条的拖动时失去响应</li></ul>"
 }

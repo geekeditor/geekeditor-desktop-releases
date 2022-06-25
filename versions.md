@@ -1,6 +1,14 @@
 
 # Versions History
 
+## GeekEditor v1.4.0 Web/软件版 2022/06/25
+
+- feat: 支持导出长图(.png)
+- feat: 支持导出 Word(.docx) 文档
+- feat: 支持导出 HTML(.html) 文档
+- feat: 支持导出 Markdown(.md) 文档
+- feat: 支持打印、导出 PDF(.pdf) 文档（仅限Web版点击打印可以保存为PDF）
+
 ## GeekEditor v1.3.2 Web/软件版 2022/06/03
 
 - fix: 重新设定桌面软件端口号，避免与其它软件端口冲突导致桌面软件打开崩溃

@@ -1,7 +1,7 @@
 
 # Versions History
 
-## GeekEditor v1.4.0 Web/软件版 2022/06/25
+## GeekEditor v1.4.1 Web/软件版 2022/06/25
 
 - feat: 支持导出长图(.png)
 - feat: 支持导出 Word(.docx) 文档

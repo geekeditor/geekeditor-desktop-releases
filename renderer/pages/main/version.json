@@ -1,4 +1,4 @@
 {
-    "version": "v1.4.0",
+    "version": "v1.4.1",
     "update": "<ul><li>feat: 支持导出长图(.png)</li><li>feat: 支持导出 Word(.docx) 文档</li><li>feat: 支持导出 HTML(.html) 文档</li><li>feat: 支持导出 Markdown(.md) 文档</li><li>feat: 支持打印、导出 PDF(.pdf) 文档（仅限Web版点击打印可以保存为PDF）</li></ul>"
 }

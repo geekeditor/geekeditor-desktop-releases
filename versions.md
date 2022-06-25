@@ -1,9 +1,10 @@
 
 # Versions History
 
-## GeekEditor v1.4.2 Web/软件版 2022/06/26
+## GeekEditor v1.4.3 Web/软件版 2022/06/26
 
 - feat: 支持复制图片(.png)
+- fix: 解决桌面软件文档中含本地图床图片导出失败的问题
 ## GeekEditor v1.4.1 Web/软件版 2022/06/25
 
 - feat: 支持导出长图(.png)

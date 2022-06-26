@@ -2,6 +2,8 @@
 
 当前，编辑器除了支持常用内容块外，并支持了代码块、LaTex数学公式、Mermaid图表、Drawio制图，可以**一键复制/同步到微信公众号、知乎及掘金**等平台发布。此外，编辑器支持了截图粘贴以及本地图片文件拖拽至编辑区任意位置等便捷功能。
 
+同时，编辑器支持导出图片、Word、PDF、HTML及Markdown等格式文件。
+
 **在线版**：[https://www.geekeditor.com](<https://www.geekeditor.com/>)
 
 **桌面软件下载**：[https://github.com/geekeditor/geekeditor-releases/releases](<https://github.com/geekeditor/geekeditor-releases/releases>)

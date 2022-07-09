@@ -1,6 +1,6 @@
 {
   "name": "geekeditor",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "Immersive efficiency writing editor",
   "main": "main/dist/index.js",
   "scripts": {
@@ -76,6 +76,7 @@
   },
   "dependencies": {
     "electron-is-dev": "^1.2.0",
+    "electron-store": "^8.0.2",
     "http-server": "^13.0.2",
     "macaddress": "^0.5.2"
   },

@@ -1,6 +1,12 @@
 
 # Versions History
 
+## GeekEditor v1.4.6 Web/软件版 2022/07/30
+
+- feat: 更换sologan为“沉浸式写作排版”
+- feat: 目录随文档内容滚动自动调整当前可视标题
+- fix: 目录展示区域标题显示优化
+
 ## GeekEditor v1.4.5 Web/软件版 2022/07/17
 
 - feat: 排版主题支持默认主题设置（创建新文档时以默认主题排版）

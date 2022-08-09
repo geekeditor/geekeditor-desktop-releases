@@ -1,9 +1,13 @@
 
 # Versions History
 
+## GeekEditor v1.4.7 Web/软件版 2022/08/09
+
+- fix: 解决代码块中输入*界面卡死的问题
+- fix: 修正Windows存储路径
 ## GeekEditor v1.4.6 Web/软件版 2022/07/30
 
-- feat: 更换sologan为“沉浸式写作排版”
+- feat: 更换slogan为“沉浸式写作排版”
 - feat: 目录随文档内容滚动自动调整当前可视标题
 - fix: 目录展示区域标题显示优化
 

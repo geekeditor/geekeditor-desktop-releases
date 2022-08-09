@@ -1,4 +1,4 @@
 {
-    "version": "v1.4.8",
+    "version": "v1.4.9",
     "update": "本次更新：<ul><li>fix: 解决代码块中输入*界面卡死的问题</li><li>fix: 修正Windows存储路径</li></ul>上次更新：<ul><li>feat: 更换slogan为“沉浸式写作排版”</li><li>feat: 目录随文档内容滚动自动调整当前可视标题</li><li>fix: 目录展示区域标题显示优化</li></ul>"
 }

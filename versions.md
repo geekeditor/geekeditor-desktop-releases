@@ -1,7 +1,7 @@
 
 # Versions History
 
-## GeekEditor v1.4.7 Web/软件版 2022/08/09
+## GeekEditor v1.4.9 Web/软件版 2022/08/09
 
 - fix: 解决代码块中输入*界面卡死的问题
 - fix: 修正Windows存储路径
